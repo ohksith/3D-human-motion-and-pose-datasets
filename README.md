@@ -1,7 +1,7 @@
 # 3D human motion and pose datasets
 
 A collection of 3D human motion and pose datasets. It includes 3D body keypoints, 3D facial mesh (FLAME), 3D body mesh (SMPL), with hand (SMPL-H), and facial expression (SMPL-X) dataset.
-
+- Fit 3D (3D keypoints, 25 Joints, 17 exercises, 611 videos, [homepage]https://fit3d.imar.ro/), ([aper] https://fit3d.imar.ro/sites/default/files/public/pdf/Fieraru_2021_CVPR.pdf)
 - Human3.6M (3D keypoints, [homepage](http://vision.imar.ro/human3.6m/description.php), [paper](https://ieeexplore.ieee.org/document/6682899))
 - AMASS: Archive of Motion Capture As Surface Shapes  (SMPL-H+DMPL, [homepage](https://amass.is.tue.mpg.de/), [paper](http://files.is.tue.mpg.de/black/papers/amass.pdf), [code](https://github.com/nghorbani/amass))
 - CMU (3D keypoints, [homepage](http://mocap.cs.cmu.edu))
